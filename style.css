@@ -28,6 +28,15 @@ li {
   border-radius: 100%;
 }
 
+#logo {
+  padding-left: 150px;
+}
+
+#search_form {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .middle {
   position: absolute;
   top: 50%;
